@@ -28,7 +28,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class" />
+    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class">
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/TransactionMode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
