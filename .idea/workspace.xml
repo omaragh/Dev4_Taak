@@ -28,9 +28,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/Vehicle.java" afterDir="false" />
+    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class">
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/Mercedes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621687599446</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat(class): added vehicle class">
+      <created>1621688360279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621688360279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +108,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(class): added vehicle class" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(class): added vehicle class" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="20" y="25" key="Vcs.Push.Dialog.v2" timestamp="1621688366591">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="20" y="25" key="Vcs.Push.Dialog.v2/0.25.1440.805@0.25.1440.805" timestamp="1621688366591" />
     <state x="0" y="25" key="new project wizard" timestamp="1621687777947">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
