@@ -28,12 +28,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class">
-      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/Mercedes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +51,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
