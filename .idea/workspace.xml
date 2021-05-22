@@ -28,9 +28,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class">
-      <change afterPath="$PROJECT_DIR$/Java/src/main/java/vehicle/TransactionMode.java" afterDir="false" />
-    </list>
+    <list default="true" id="52a0f4c8-4d20-49ba-aad7-e3ac43529452" name="Default Changelist" comment="feat(class): added vehicle class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Omar_A_Feature/Vehicle_Creation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
